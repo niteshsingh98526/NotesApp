@@ -12,6 +12,10 @@ For run
 -----------------------------
 -> java NotesApp
 
+---------------------------------------------
+
+Output->
+
 ------------------------------------------------------------
 
 <img width="1920" height="1005" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/96ef828c-4c84-40ba-b4be-6e6d34951a4a" />
